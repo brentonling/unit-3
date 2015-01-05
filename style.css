@@ -1,5 +1,5 @@
 body {
-	background:url("images/stripes.png"), url("images/background.jpg"), #52596b;
+	background:url("stripes.png"), url("background.jpg"), #52596b;
 	background-repeat: repeat-x, no-repeat;
 	font-size: 26px;
 	font-family: helvetica, arial, sans-serif;
@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-	background: url("images/logo-taasky.png");
+	background: url("logo-taasky.png");
 	background-repeat: no-repeat;
 	display: block;
 	width: 147px;
@@ -27,7 +27,7 @@ hr {
 }
 
 a {
-	background: url("images/btn_store.png");
+	background: url("btn_store.png");
 	background-repeat: no-repeat;
 	display: block;
 	width: 246px;
